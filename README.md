@@ -2,4 +2,4 @@
 
 SAP Gateway Business Suite Enablement - Vocabulary Annotation
 
-Also includes Model, Service, and Project
+Also includes Model (IWMO), Service (IWSV), and Project (IWPR)
