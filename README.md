@@ -1,2 +1,3 @@
 # IWVB
-IWVB: SAP Gateway Business Suite Enablement -Vocabulary Annotation
+
+SAP Gateway Business Suite Enablement - Vocabulary Annotation
